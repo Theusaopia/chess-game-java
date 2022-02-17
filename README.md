@@ -1,6 +1,6 @@
 **Chess Project**
 
-Project developed in the Java Udemy course.
+Project developed in a Java Udemy course.
 
  - How to run
 	 The only way to run this project is through *gitbash* or any other terminal who has color. Open the terminal in the /bin/ directory, and then, run the command: Java application/Program
